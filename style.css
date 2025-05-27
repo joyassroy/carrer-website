@@ -49,6 +49,9 @@
   background: linear-gradient(90deg, rgb(255, 165, 0), rgb(255, 212, 71) 100%);
   opacity: 0.8;
 }
+.btn:hover{
+    cursor: pointer;
+}
 * {
   margin: 0px;
   padding: 0px;
@@ -293,6 +296,9 @@ letter-spacing: 0%;
 text-align: left;
 text-decoration-line: underline;
  }
+ .header-underline:hover{
+    cursor: pointer;
+}
 /* footer-section */
 
 .footer-pera{
@@ -310,7 +316,11 @@ text-align: center;
     align-items: center;
     padding: 32px 150px;
     background: rgba(255, 255, 255, 0.6);
+    
 }
 .img-footer{
     margin: 0px 20px;
+}
+.img-footer:hover{
+    cursor: pointer;
 }
