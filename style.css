@@ -1,0 +1,316 @@
+/* font-names-styles-overall */
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.azeret-mono-font {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* header-first-block */
+
+.header-first-block > .logo {
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 42px;
+  letter-spacing: 0%;
+  color: rgb(13, 19, 33);
+}
+.extend {
+  color: rgb(255, 165, 0);
+}
+.header-first-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 90px;
+  border-bottom: 1px solid rgb(198, 219, 255);
+  background: rgba(255, 255, 255, 0.6);
+}
+
+/* shareable-content */
+.btn {
+  color: rgb(13, 19, 33);
+
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 248.74px;
+  height: 64px;
+  padding: 17px 24px 17px 24px;
+  border-radius: 10px;
+
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, rgb(255, 165, 0), rgb(255, 212, 71) 100%);
+  opacity: 0.8;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* banner-section */
+.banner-block {
+  background: linear-gradient(
+    -69.19deg,
+    rgb(184, 231, 250) 32.284%,
+    rgb(230, 230, 250) 91.685%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+.banner-section {
+  background-color: linear-gradient(
+    -69.19deg,
+    rgb(184, 231, 250) 32.284%,
+    rgb(230, 230, 250) 91.685%
+  );
+  text-align: center;
+  margin: 100px 90px;
+  width: 100vw;
+  border-radius: 16px;
+  padding: 40px 60px;
+  background: rgb(230, 237, 249);
+}
+.img-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-hero-dev {
+  width: 240.28px;
+  height: 240px;
+}
+.header-2 {
+  color: rgb(13, 19, 33);
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 68px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.details-programmer {
+  color: rgb(13, 19, 33);
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  opacity: 0.7;
+  margin: 24px 73px 0px 73px;
+}
+.btn-2 {
+  text-align: center;
+  margin: 60px;
+}
+.frame-1 {
+  margin: 32px 60px;
+}
+
+/* page-2 sections */
+.page-2 {
+}
+.header-3 {
+  color: rgb(13, 19, 33);
+
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 48px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 28px;
+}
+.page-2-pera {
+  color: rgb(13, 19, 33);
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  opacity: 0.7;
+  margin-bottom: 48px;
+}
+
+.header-4 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 107px;
+}
+.page-2-pera-2 {
+  color: rgb(13, 19, 33);
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+  opacity: 0.7;
+  margin-top: 16px;
+}
+.img-2 {
+  width: 407.25px;
+  height: 350.84px;
+}
+.sub-section-page-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 16px;
+  /* width: 100%; */
+  padding: 48px;
+  margin: 48px 90px 0px 90px;
+  border-radius: 16px;
+
+  background: rgb(230, 237, 249);
+}
+.page-2-overall {
+  background: linear-gradient(
+    -69.19deg,
+    rgb(184, 231, 250) 32.284%,
+    rgb(230, 230, 250) 91.685%
+  );
+}
+.btn-spe {
+  margin-top: 32px;
+  margin-bottom: 107px;
+}
+
+/* page-3 */
+.header-5 {
+  color: rgb(13, 19, 33);
+
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 48px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 0px;
+}
+.page-3-pera-1 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  opacity: 0.7;
+  margin-top: 24px;
+}
+.video-1st {
+  padding: 32px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  text-align: center;
+  margin: 48px 170px 0px 170px;
+}
+iframe {
+  width: 100%;
+  height: 556px;
+  border-radius: 16px;
+}
+.page-3-overall {
+  background: linear-gradient(
+    -69.19deg,
+    rgb(184, 231, 250) 32.284%,
+    rgb(230, 230, 250) 91.685%
+  );
+  padding: 100px 170px;
+}
+/* footer-sections-first-page */
+.header-6{
+     color: rgb(13, 19, 33);
+font-family: Poppins;
+font-size: 32px;
+font-weight: 800;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 100px;
+}
+.first-footer-pera{
+    color: rgb(13, 19, 33);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity:0.7;
+margin-top: 24px;
+}
+.flexing{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 48px 90px;
+}
+/* .first-footer-section{
+  //  background: linear-gradient(-69.19deg, rgb(184, 231, 250) 32.284%,rgb(230, 230, 250) 91.685%);
+} */
+ .header-of-flex{
+    border-radius: 16px;
+
+box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.25);
+background: linear-gradient(180.00deg, rgb(230, 237, 249),rgb(157, 229, 255) 100%);
+padding: 40px;
+width: 364px;
+ }
+ .header-flex{
+    /* card-head */
+color: rgb(13, 19, 33);
+font-family: Poppins;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+ }
+ .header-underline{
+    color: rgb(13, 19, 33);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+ }
+/* footer-section */
+
+.footer-pera{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 150px;
+    background: rgba(255, 255, 255, 0.6);
+}
+.img-footer{
+    margin: 0px 20px;
+}
